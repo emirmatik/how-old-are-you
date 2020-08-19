@@ -5,4 +5,4 @@
 
 Here is the live link = https://how-old-are-you.netlify.app/
 
-![Photo1.0](https://i.ibb.co/z8KSBs6/photo1.png) ![Photo1.1](https://i.ibb.co/QY4GW0y/photo1-d.png)
+![Photo1.0](https://i.ibb.co/F6gTL12/photo1.png)
