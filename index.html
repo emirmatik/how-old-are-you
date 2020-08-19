@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="../css/skeleton.css" />
+    <link rel="stylesheet" href="../css/app.css" />
+    <title>How old are you ?</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="nav">
+        <div class="dark-div">
+          <i class="fas fa-moon"></i>
+          <label class="switch">
+            <input id="darkmode-input" type="checkbox" />
+            <span class="slider"></span>
+          </label>
+        </div>
+        <a href="../Turkish/turkish.html" id="turkish">Turkish</a>
+      </div>
+      <form>
+        <input required id="date" type="date" class="u-full-width" />
+        <button type="submit" class="u-full-width button-primary">
+          Calculate
+        </button>
+      </form>
+      <h1 id="result">
+        Enter a birth date to calculate ! ☝
+      </h1>
+      <button id="clear-btn">
+        Clear
+      </button>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
