@@ -19,7 +19,7 @@ const lightTheme = () => {
   body.style = `color: black; background: #ffffff`;
   date.style.backgroundColor = "white";
   date.style.color = "black";
-  clearBtn.style.color = "black";
+  clearBtn.style.color = "gray";
 };
 
 // Event listeners
