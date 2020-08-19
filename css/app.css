@@ -10,7 +10,10 @@ body {
   padding-top: 2rem; 
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
+}
+#logo {
+  margin: 0;
 }
 .switch {
   position: relative;
@@ -49,9 +52,6 @@ input:checked + .slider {
 input:checked + .slider:before {
   transform: translateX(20px);
 }
-.dark-div {
-  margin-right: 2rem;
-}
 .fa-moon {
   font-size: 2.5rem;
   transform: translateY(0.2rem);
@@ -83,6 +83,9 @@ form {
 }
 
 @media screen and (max-width: 700px) {
+   #logo {
+    font-size: 2rem;
+  }
   form {
     width: 90%;
   }
