@@ -5,11 +5,13 @@
 
 Here is the live link = https://how-old-are-you.netlify.app/ 
 
+** Note: Calculator doesn't work on Safari, because it doesn't support <input type="date" /> yet.  **
+
 # Photos
 
 ![Photo1.0](https://i.ibb.co/F6gTL12/photo1.png) <br />
 
 ![Photo1.1](https://i.ibb.co/Yj77rBX/imag2.png)
 
-** Note: Calculator doesn't work on Safari yet, because Safari doesn't support <input type="date" /> yet.  **
+
 
