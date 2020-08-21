@@ -70,10 +70,6 @@ form {
   margin: 10rem auto;
 }
 #date {
-  display: block;
-  -webkit-appearance: textfield;
-  -moz-appearance: textfield;
-  min-height: 1.2em;
   padding: 0.5rem;
 }
 #result {
